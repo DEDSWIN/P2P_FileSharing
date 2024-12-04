@@ -10,7 +10,7 @@ A peer-to-peer (P2P) file sharing system designed for seamless file discovery, s
 
 ## Features
 - **User Registration**: 
-  - First-time users register and their state is stored locally (`C://users`), enabling automatic login on subsequent launches.
+  - First-time users register and their state is stored locally (`C://users/<username>`), enabling automatic login on subsequent launches.
 - **File Sharing**: Add file metadata to the tracker server to make files discoverable.
 - **Search Functionality**: Search for files with support for categorization.
 - **FTP-like Protocol**: Efficient upload and download of shared files.
@@ -33,7 +33,7 @@ A peer-to-peer (P2P) file sharing system designed for seamless file discovery, s
 
 ## Video Demonstration
 For a detailed walkthrough of this Project, please watch the following video:
-[![Watch the video](https://img.youtube.com/vi/jYHpE68Rauw/0.jpg)](https://www.youtube.com/watch?v=jYHpE68Rauw)
+[![Watch the video](https://img.youtube.com/vi/ljjtaA0QRGY/0.jpg)](https://www.youtube.com/watch?v=ljjtaA0QRGY)
 
 
 ## How It Works

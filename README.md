@@ -31,15 +31,17 @@ A peer-to-peer (P2P) file sharing system designed for seamless file discovery, s
   - Thread library for handling concurrent tasks.
   - Tkinter for building a user-friendly interface.
 
+## Video Demonstration
+For a detailed walkthrough of this Project, please watch the following video:
+[![Watch the video](https://img.youtube.com/vi/jYHpE68Rauw/0.jpg)](https://www.youtube.com/watch?v=jYHpE68Rauw)
+
+
 ## How It Works
 1. **Registration**: Users register with the tracker server, which stores their details.
 2. **File Sharing**: Users add file metadata (e.g., name, category, comments) to the tracker server.
 3. **Search**: Peers search the tracker server for files and their corresponding hosts.
 4. **Transfer**: Direct peer-to-peer connections are established for uploading and downloading files.
 5. **Network Discovery**: Online peers are identified by pinging them over the network.
-
-## Screenshots
-*(Add screenshots of your UI if available)*
 
 ## Installation
 1. Clone the repository.
